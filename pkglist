@@ -1,5 +1,4 @@
 alacritty
-bspwm
 codeblocks
 discord
 dmenu
@@ -14,14 +13,12 @@ lf
 nautilus
 neovim
 neovim-coc-clangd-git
-npm
 nvidia
 otf-san-francisco
 pavucontrol
 pgadmin4
 picom
 playerctl
-polybar
 pulseaudio
 pycharm-community-edition
 pyenv
@@ -29,7 +26,6 @@ pyenv-virtualenv
 redshift
 reflector
 spotify
-sxhkd
 systemd-numlockontty
 ttf-font-awesome
 ttf-font-logos
@@ -37,5 +33,4 @@ ttf-material-icons-git
 ttf-ubuntu-font-family
 wmname
 xautolock
-xorg
 zathura-pdf-mupdf
